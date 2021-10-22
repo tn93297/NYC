@@ -1,1 +1,1 @@
-Small notebook with elementary data analysis.
+Small jupyter notebook with elementary data analysis.
